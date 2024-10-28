@@ -1,0 +1,2 @@
+# odin-recipes
+This project is a simple collection of HTML pages showcasing various recipes. It is an introduction to HTML structure and basic web development concepts, developed as part of the Odin Project.
