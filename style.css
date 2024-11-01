@@ -19,6 +19,10 @@ h1{
 #third{
     text-decoration: none;
     font-size:24px;
+    display:block;
+    margin-top:60px;
+    font-family:'Courier New', Courier, monospace;
+    color:#b7d3df;
 }
 
 #first:hover{
@@ -42,4 +46,26 @@ h2:hover{
     background-color: #b7d3df;
     color:#023047;
 }
+
+
+#link1,
+#link2,
+#link3 {
+    width:200px;
+    height:200px;
+    border:2px solid #023047;
+    display:inline-block;
+    margin-right:310px;
+    text-align: center;
+    background-color: #023047;
+}
+
+#link1{
+    margin-left:50px;
+}
+
+#link3{
+    margin-right:50px;
+}
+
 
